@@ -5,18 +5,19 @@
 My BMI calculator lets you know your BMI by inputing your height and weight
 It also groups your BMI and lets you know your Weight Category.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+i) Download and install python from https://www.python.org/downloads/windows/ depending on your operating system.
+ii)Then check if it has been installed by checking the version of python installed by opening the terminal of your computer and typing  [py]
+iii)After that you can download my BMI calculator code or clone it to your local repository.
+iv)save the code using a .py extension.
+v)Now, open your terminal and head over to the directory with the BMI python file you just created.
+vi)now type  py {name of the file you created.py} and hit enter on your terminal.
+vii)The BMI calculator should now start working.
+
 ## Known Bugs
 So far no bugs have been reported
 ## Technologies Used
-I used python to write and 
+I used python python programming language to write this code.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+Incase of any queries or support , please email me through daniel.tendet@student.moringaschool.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) 2021 **Daniel Naibei Tendet**
